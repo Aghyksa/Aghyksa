@@ -10,6 +10,7 @@ Senior Odoo Developer with 3+ years of experience building enterprise solutions.
 
 - 🔭 Working on advanced Odoo modules and system integrations.
 - 🌱 Learning AI-driven automation and deep architecture.
+- 🦊 More active on: [GitLab](https://gitlab.com/aghyksa)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/lion-younes)
 
 ---
@@ -48,6 +49,7 @@ Senior Odoo Developer with 3+ years of experience building enterprise solutions.
 ### 📬 Connect with Me
 
 <p align="left">
+<a href="https://gitlab.com/aghyksa" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="aghyksa" /></a>
 <a href="https://linkedin.com/in/lion-younes" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lion-younes" /></a>
 </p>
 
