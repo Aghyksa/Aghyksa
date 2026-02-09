@@ -30,15 +30,19 @@ I'm a passionate Senior Odoo Developer with over 3 years of experience in buildi
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aghyksa&show_icons=true&theme=radical" alt="Aghyksa's GitHub stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghyksa&layout=compact&theme=radical" alt="Top Langs" height="170px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aghyksa&theme=tokyonight" alt="Profile Details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aghyksa&theme=radical" alt="Aghyksa's streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aghyksa&theme=tokyonight" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aghyksa&theme=tokyonight" height="200px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aghyksa&theme=tokyonight" alt="Aghyksa's streak" />
 </p>
 
 ---
