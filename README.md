@@ -33,8 +33,12 @@ I'm a passionate Senior Odoo Developer with over 3 years of experience in buildi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aghyksa&show_icons=true&theme=tokyonight" alt="Aghyksa's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghyksa&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aghyksa&show_icons=true&theme=radical" alt="Aghyksa's GitHub stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghyksa&layout=compact&theme=radical" alt="Top Langs" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aghyksa&theme=radical" alt="Aghyksa's streak" />
 </p>
 
 ---
@@ -42,7 +46,7 @@ I'm a passionate Senior Odoo Developer with over 3 years of experience in buildi
 ### 📬 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/lion-younes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lion-younes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lion-younes" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lion-younes" /></a>
 </p>
 
 <br />
