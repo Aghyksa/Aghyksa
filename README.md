@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lyon Younes Age Nesza Yadi Putra
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aghyksa&label=Profile%20views&color=0e75b6&style=flat" alt="Aghyksa" />
+  <img src="https://komarev.com/ghpvc/?username=Aghyksa-Fake&label=Profile%20views&color=0e75b6&style=flat&base=5382" alt="Aghyksa" />
 </p>
 
 ### 🚀 Senior Odoo Developer | Python Enthusiast | DevOps
