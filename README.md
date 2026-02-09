@@ -6,13 +6,11 @@
 
 ### 🚀 Senior Odoo Developer | Python Enthusiast | DevOps
 
-I'm a passionate Senior Odoo Developer with over 3 years of experience in building enterprise solutions. I love working with **Python**, **OWL (Odoo Web Library)**, and optimizing deployments with **Docker** and **CI/CD**.
+Senior Odoo Developer with 3+ years of experience building enterprise solutions. Focused on **Python**, **OWL (Odoo Web Library)**, and optimizing deployments with **Docker** & **CI/CD**.
 
-- 🔭 I’m currently working on advanced Odoo modules and system integrations.
-- 🌱 I’m currently learning more about AI-driven automation and deep architecture.
-- 👯 I’m looking to collaborate on Open Source Odoo modules.
-- 💬 Ask me about **Odoo, Python, Linux, or PostgreSQL**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lion-younes)
+- 🔭 Working on advanced Odoo modules and system integrations.
+- 🌱 Learning AI-driven automation and deep architecture.
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/lion-younes)
 
 ---
 
